@@ -9,6 +9,8 @@
 
     <?php require_once("lib/partials/navbar.php");?>
 
+    <h1>hello world</h1>
+
     <div id="stage">
       <div id="stage-caption">
         <h1 class = "display-3">Welcome to Gotham!!</h1>
